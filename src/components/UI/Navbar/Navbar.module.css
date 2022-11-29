@@ -1,0 +1,22 @@
+.navbar{
+    height: 50px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    padding: 0 30px;
+    background: lightgray;
+    
+}
+  
+.navbar__links{
+    margin-left: auto;
+    color: teal;
+    display: flex;
+    gap: 15px;
+}
+
+.navbar__link{
+    text-decoration: none;
+    color: inherit;
+
+}
